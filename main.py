@@ -3,7 +3,7 @@ import json
 import os
 
 # Your NASDAQ Data Link API key and endpoint
-API_KEY = "hkcDRsMpULNu7-9NPPdV"
+API_KEY = "Your API Key"
 URL = "https://data.nasdaq.com/api/v3/datatables/QUOTEMEDIA/PRICES.json?api_key=8yUvt6m1xCBamwWoQsUb"
 
 # Directory for local JSON storage
