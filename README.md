@@ -14,3 +14,36 @@ adjustments and reordering recommendations. <br>
 ● Significant reduction in supply chain-related losses and improved operational
 efficiency through proactive risk management.<br>
 
+# Supply Chain Management and Inventory Optimization System  
+
+A Python-based system designed to streamline supply chain operations and optimize inventory management. This project incorporates **machine learning models** for predicting supply chain risks and analyzing inventory data to ensure efficient decision-making. The system uses **PostgreSQL** as the database and **Streamlit** for an interactive web dashboard.  
+
+---
+
+## Features  
+- **Data Fetching**: Incorporates APIs for fetching external supply chain-related data.
+- **Database Integration**: Stores and retrieves supply chain data from a **PostgreSQL** database.
+- **Interactive Dashboard**: Provides a visual representation of supply chain insights using **Streamlit**.
+- **Inventory Analysis**: Analyzes inventory levels, demand patterns, and trends for better inventory control.  
+- **Risk Prediction**: Integrates machine learning models to predict risks in the supply chain.    
+
+
+---
+
+## Technology Stack  
+- **Backend**: Python (with libraries such as `pandas`, `numpy`, `scikit-learn`, `psycopg2`, `requests`)  
+- **Database**: PostgreSQL  
+- **Frontend**: Streamlit  
+- **Visualization**: Plotly, Matplotlib  
+- **Environment Management**: Python-dotenv  
+
+---
+
+## Prerequisites  
+Before setting up the project, ensure you have the following installed:  
+- Python 3.7+  
+- PostgreSQL database  
+- Required Python libraries (specified in `requirements.txt`)  
+
+---
+
