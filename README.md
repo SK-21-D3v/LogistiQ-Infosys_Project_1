@@ -1,5 +1,7 @@
 <H1>LogistiQ- AI Driven Supply Chain Disruption Predictor and Inventory Optimization System</H1>
 
+*(Please go through `Project_Workflow_README.md` for better understanding of the files and their need, alongside a brief overview of the milestone-wise working of the project)*
+
 ## Overview
 
 A Python-based system designed to streamline supply chain operations and optimize inventory management. This project incorporates **machine learning models** for predicting supply chain risks and analyzing inventory data to ensure efficient decision-making. The system uses **PostgreSQL** as the database and **Streamlit** for an interactive web dashboard. 
