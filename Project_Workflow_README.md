@@ -1,6 +1,6 @@
 # Project Workflow:
 
-**Current Milestone 3 Dashboard**
+**Current Milestone 3 Dashboard** : *Consists of a sample ERP System design alongside automated alert generation feature.*
 
 ![ERP_System_Dashboard](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1421).png?raw=true)<br>
 
