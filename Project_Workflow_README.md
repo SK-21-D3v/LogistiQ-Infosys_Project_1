@@ -50,6 +50,20 @@
 
 ## Milestone 4 : Real-Time Alert and Reporting Dashboard 
 
+![Real-Time Alert System Integration](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1427).png?raw=true)<br>
+
+![Real-Time Alert System Integration](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1428).png?raw=true)<br>
+
+![Real-Time Alert System Integration](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1429).png?raw=true)<br>
+
+![Real-Time Alert System Integration](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1430).png?raw=true)<br>
+
+![Real-Time Alert System Integration](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1432).png?raw=true)<br>
+
+![Real-Time Alert System Integration](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1433).png?raw=true)<br>
+
+![Real-Time Alert System Integration](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1434).png?raw=true)<br>
+
 - `slack_notification_system_integration.py` : Consists of code for the current milestone which makes use of the Slack Webhook for integrating the real time alerts with the slack channel for messages and alerts in real time.
   
 
