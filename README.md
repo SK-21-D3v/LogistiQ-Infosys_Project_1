@@ -6,9 +6,6 @@ A Python-based system designed to streamline supply chain operations and optimiz
 
 ![LogistiQ Dashboard](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1436).png?raw=true)<br>
 
-LogistiQ is a comprehensive supply chain management project developed as part of the Infosys Project 1 initiative. This project utilizes machine learning models for risk prediction, inventory optimization, and improving stock management. The goal is to create an AI-driven supply chain management system that can optimize decision-making and improve operational efficiency.
-
-
 ## Outcome
 
 ● Accurate prediction of supply chain disruptions through analysis of news, supplier data, and transportation trends.<br>
