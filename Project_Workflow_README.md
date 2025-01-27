@@ -2,9 +2,15 @@
 
 ## Milestone 1 : Global Data Monitoring and Analysis Engine
 
+![News_Articles](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1443).png?raw=true)<br>
+
+![Electronics Product Data](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1286).png?raw=true)<br>
+
 - `save_to_excel.py` : Collected data via API calls and collected them and stored them on the local storage in excel format <br>
 
 - `main.py`- Fetched and stored data in json format alongside storing it in the PostgreSql database.<br>
+
+- `news_collection.py`- Fetched and stored news data related to disruption and risk factors in supply chain in the PostgreSql database.<br>
 
 - `nasdaq_data.json` : Stored the data generated in json format.<br>
 
