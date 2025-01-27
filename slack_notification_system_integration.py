@@ -13,9 +13,22 @@ SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
 
 # Tabs for Navigation
 st.set_page_config(page_title="Supply Chain Dashboard", layout="wide")
+
+# Add yellow shade to the sidebar using custom CSS
+st.markdown(
+    """
+    <style>
+        [data-testid="stSidebar"] {
+            background-color:#FFDB58 ;
+        }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 tab = st.sidebar.radio(
     "Main Menu",
-    ["Home", "Global Monitoring", "Predictive Modeling", "Inventory Optimization","Manage Inventory", "Real-Time Alerts", "Reporting"],
+    ["Home", "Global Monitoring", "Predictive Modeling", "Inventory Optimization", "Manage Inventory", "Real-Time Alerts", "Reporting"],
 )
 
 # Function to send Slack notifications
