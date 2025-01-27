@@ -1,21 +1,5 @@
 # Project Workflow:
 
-**Current Milestone 4 Dashboard** : *Consists of a supply chain dashboard with predictive modeling visualizations, alongside real time slack notifications integrated based on the alerts generated, along with a separate feature to upload excel files to analyse and predict necessary inventory management and optimization decisions  for the uploaded datasets.*
-
-![Real-Time Alert System Integration](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1427).png?raw=true)<br>
-
-![Real-Time Alert System Integration](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1428).png?raw=true)<br>
-
-![Real-Time Alert System Integration](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1429).png?raw=true)<br>
-
-![Real-Time Alert System Integration](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1430).png?raw=true)<br>
-
-![Real-Time Alert System Integration](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1432).png?raw=true)<br>
-
-![Real-Time Alert System Integration](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1433).png?raw=true)<br>
-
-![Real-Time Alert System Integration](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1434).png?raw=true)<br>
-
 ## Milestone 1 : Global Data Monitoring and Analysis Engine
 
 - `save_to_excel.py` : Collected data via API calls and collected them and stored them on the local storage in excel format <br>
@@ -37,6 +21,7 @@
 - `xgboost_risk_prediction_model.pkl` : Pickle file generated upon model training.<br>
 
 ## Milestone 3 : ERP Integration and Inventory Adjustment Module
+
 ![ERP_System_Dashboard](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1421).png?raw=true)<br>
 
 ![Alert Mechanism](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1422).png?raw=true)<br>
@@ -49,6 +34,20 @@
 
 
 ## Milestone 4 : Real-Time Alert and Reporting Dashboard 
+
+![LogistiQ-Home Page](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1436).png?raw=true)<br>
+
+![Global Data Monitoring & Analysis](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1437).png?raw=true)<br>
+
+![Predictive Disruption Modeling](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1438).png?raw=true)<br>
+
+![Inventory Optimization](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1439).png?raw=true)<br>
+
+![Real-Time Alert System Integration](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1440).png?raw=true)<br>
+
+![Slack Notification Dashboard](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1433).png?raw=true)<br>
+
+![Reporting Dashboard](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1441).png?raw=true)<br>
 
 - `slack_notification_system_integration.py` : Consists of code for the current milestone which makes use of the Slack Webhook for integrating the real time alerts with the slack channel for messages and alerts in real time.
   
