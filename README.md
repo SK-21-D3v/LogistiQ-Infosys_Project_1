@@ -4,7 +4,7 @@
 
 A Python-based system designed to streamline supply chain operations and optimize inventory management. This project incorporates **machine learning models** for predicting supply chain risks and analyzing inventory data to ensure efficient decision-making. The system uses **PostgreSQL** as the database and **Streamlit** for an interactive web dashboard. It also provide real time inventory and supply chain risk alerts over Slack.
 
-![LogistiQ Dashboard](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/Screenshot%20(1436).png?raw=true)<br>
+![LogistiQ Dashboard](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/templates/Screenshot%20(1436).png?raw=true)<br>
 
 ## Outcome
 
