@@ -6,6 +6,11 @@ A Python-based system designed to streamline supply chain operations and optimiz
 
 ![LogistiQ Dashboard](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/templates/Screenshot%20(1436).png?raw=true)<br>
 
+[Download Presentation](https://github.com/SK-21-D3v/LogistiQ-Infosys_Project_1/blob/main/templates/LogistiQ.pptx) <br>
+
+
+
+
 ## Outcome
 
 ● Accurate prediction of supply chain disruptions through analysis of news, supplier data, and transportation trends.<br>
